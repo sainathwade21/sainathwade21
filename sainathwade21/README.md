@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/sainathwadee" target="blank"><img align="center" src="https://github.com/sainathwade21/sainathwade21/blob/main/download.png" alt="link" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sainathwade-tester" target="blank"><img align="center" src="https://github.com/sainathwade21/sainathwade21/blob/main/download.png" alt="link" height="30" width="40" /></a>
 
 </p>
 
